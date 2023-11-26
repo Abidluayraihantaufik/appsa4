@@ -105,6 +105,8 @@ Membuat Menu untuk menampilkan semua project, disini saya terdapat 6 project. Be
         Dengan cara ini, MenuActivity berfungsi sebagai pemandu untuk memulai berbagai aktivitas dalam aplikasi saat tombol-tombol menu yang sesuai ditekan.
         Berikut adalah penjelasan untuk setiap fungsi dalam kelas MenuActivity.
 
+    ![img](img/menu.png)
+
 2.  **activity_menu.xml**
 
     disini saya tidak menampilkan kode programnya karna panjang, saya akan menampilkan design dan component apa saja yang digunakan.
@@ -145,11 +147,11 @@ Sumber icon -->
         Dengan cara ini, SplashActivity bertindak sebagai tampilan pembuka yang memberikan kesan singkat sebelum pengguna melihat layar utama (MenuActivity). Penundaan memberikan waktu singkat untuk menampilkan merek atau elemen desain yang mewakili aplikasi sebelum memasuki pengalaman pengguna utama.
 
 4.  **activity_splash.xml**  
-    ![img](img/splash_screen.gif)
+    <img src="https://github.com/Abidluayraihantaufik/cakeset/blob/main/img/sp.gif" width = 30% height= 30%>
 
 ## **Demo Aplikasi**
 
-<img src="https://github.com/Abidluayraihantaufik/cakeset/blob/main/img/vid.gif" width = 40% height= 40%>
+<img src="https://github.com/Abidluayraihantaufik/cakeset/blob/main/img/vid.gif" width = 30% height= 30%>
 
 <hr>
 
