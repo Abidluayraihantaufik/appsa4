@@ -149,7 +149,7 @@ Sumber icon -->
 
 ## **Demo Aplikasi**
 
-    <img src="https://github.com/Abidluayraihantaufik/cakeset/blob/main/img/vid.gif" width = 40% height= 40%>
+<img src="https://github.com/Abidluayraihantaufik/cakeset/blob/main/img/vid.gif" width = 40% height= 40%>
 
 <hr>
 
